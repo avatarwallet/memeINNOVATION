@@ -1,23 +1,31 @@
 {
-  "updateAt": "2024-08-13T10:51:34.772Z",
+  "updateAt": "2024-08-13T11:09:05.633Z",
   "udexPrefix": "https://udex.keylesswallet.io/Trade?chainId=97&type=swap&outputCurrency=",
-  "tokenCount": 6,
+  "tokenCount": 5,
   "data": [
     {
-      "contractAddress": "0x2068dfb5adc68dcf82ae8d91befe23f00ea0dc27",
-      "marketCap": 822895.9533344764,
-      "activeHolders": 1972,
-      "liquidity": 5547.7300000000005,
-      "avgTradeVolume": 152295.71539290596,
-      "symbol": "WHY2.0"
+      "contractAddress": "0x9ec02756a559700d8d9e79ece56809f7bcc5dc27",
+      "marketCap": 1000503181947.6694,
+      "activeHolders": 28442,
+      "liquidity": 15955725.06,
+      "avgTradeVolume": 1498906.7977536148,
+      "symbol": "WHY"
     },
     {
       "contractAddress": "0xe915b76212e820c34e7e6b6eab1849bf6dc0c68a",
-      "marketCap": 157008.27069966856,
+      "marketCap": 157008.2706996685,
       "activeHolders": 429,
-      "liquidity": 874.44,
-      "avgTradeVolume": 2252711.6910226922,
+      "liquidity": 819.45,
+      "avgTradeVolume": 4484285.4338206295,
       "symbol": "TrumpX"
+    },
+    {
+      "contractAddress": "0x2068dfb5adc68dcf82ae8d91befe23f00ea0dc27",
+      "marketCap": 822895.9533344759,
+      "activeHolders": 1972,
+      "liquidity": 5511.44,
+      "avgTradeVolume": 164080.9477666186,
+      "symbol": "WHY2.0"
     },
     {
       "contractAddress": "0x2f2d534a98d8589dd0efc206fd5058a4570bdd0c",
@@ -29,27 +37,11 @@
     },
     {
       "contractAddress": "0x62ac9e7d09f301d800119055b5367da7907504b5",
-      "marketCap": 15800.965013269988,
+      "marketCap": 15800.96501326998,
       "activeHolders": 426,
-      "liquidity": 4991.709999999999,
-      "avgTradeVolume": 74292.8600945403,
+      "liquidity": 5224.92,
+      "avgTradeVolume": 102280.8062814291,
       "symbol": "$TSUJI "
-    },
-    {
-      "contractAddress": "0x25d17b317f48d57a18a67a1edd72656fa75b5fce",
-      "marketCap": 10536665.39919634,
-      "activeHolders": 4380,
-      "liquidity": 817875.4,
-      "avgTradeVolume": 2033387.1523934037,
-      "symbol": "WFTX"
-    },
-    {
-      "contractAddress": "0x9ec02756a559700d8d9e79ece56809f7bcc5dc27",
-      "marketCap": 1000503181947.669,
-      "activeHolders": 28442,
-      "liquidity": 15987399.07,
-      "avgTradeVolume": 1455706.2866216402,
-      "symbol": "WHY"
     }
   ]
 }
