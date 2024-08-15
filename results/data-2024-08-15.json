@@ -1,5 +1,5 @@
 {
-  "updateAt": "2024-08-15T14:43:46.752Z",
+  "updateAt": "2024-08-15T15:30:05.728Z",
   "udexPrefix": "https://udex.keylesswallet.io/Trade?chainId=97&type=swap&outputCurrency=",
   "tokenCount": 6,
   "data": [
@@ -15,7 +15,7 @@
       "contractAddress": "0x450593bf7f2d7e559e38496cfb06bdce5e963795",
       "marketCap": 203947170.0006121,
       "activeHolders": 1435,
-      "liquidity": 569416.22,
+      "liquidity": 580506.68,
       "avgTradeVolume": 1310140.92061636,
       "symbol": "BCCoin"
     },
@@ -23,7 +23,7 @@
       "contractAddress": "0x2068dfb5adc68dcf82ae8d91befe23f00ea0dc27",
       "marketCap": 694965.7195462936,
       "activeHolders": 1995,
-      "liquidity": 52310.03,
+      "liquidity": 51997.439999999995,
       "avgTradeVolume": 142006.81072225087,
       "symbol": "WHY2.0"
     },
@@ -31,7 +31,7 @@
       "contractAddress": "0x9ec02756a559700d8d9e79ece56809f7bcc5dc27",
       "marketCap": 65495415532117.01,
       "activeHolders": 29274,
-      "liquidity": 15353905.58,
+      "liquidity": 15433403.12,
       "avgTradeVolume": 1511476.7377082228,
       "symbol": "WHY"
     },
@@ -39,7 +39,7 @@
       "contractAddress": "0x62ac9e7d09f301d800119055b5367da7907504b5",
       "marketCap": 17488.573320133124,
       "activeHolders": 467,
-      "liquidity": 1586.8,
+      "liquidity": 1497.8600000000001,
       "avgTradeVolume": 63690.56713761542,
       "symbol": "$TSUJI "
     },
@@ -47,7 +47,7 @@
       "contractAddress": "0x2f2d534a98d8589dd0efc206fd5058a4570bdd0c",
       "marketCap": 788.0386581994884,
       "activeHolders": 131,
-      "liquidity": 1206.734030886255,
+      "liquidity": 1207.816201477437,
       "avgTradeVolume": 1007.4353329740155,
       "symbol": "FUKU"
     }
