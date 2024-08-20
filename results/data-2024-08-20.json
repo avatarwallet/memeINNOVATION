@@ -1,118 +1,38 @@
 {
-  "updateAt": "2024-08-20T03:05:12.743Z",
+  "updateAt": "2024-08-20T14:14:25.803Z",
   "udexPrefix": "https://udex.keylesswallet.io/Trade?chainId=97&type=swap&outputCurrency=",
-  "tokenCount": 14,
+  "tokenCount": 4,
   "data": [
     {
+      "contractAddress": "0x9ec02756a559700d8d9e79ece56809f7bcc5dc27",
+      "marketCap": 336518857165846.6,
+      "activeHolders": 30943,
+      "liquidity": 17415910.569999997,
+      "avgTradeVolume": 1330929.45294779,
+      "symbol": "WHY"
+    },
+    {
       "contractAddress": "0x21fd16cd0ef24a49d28429921e335bb0c1bfadb3",
-      "marketCap": 13154856.85060486,
+      "marketCap": 13154856.850604864,
       "activeHolders": 7894,
-      "liquidity": 812716.83,
-      "avgTradeVolume": 725136.7257537779,
+      "liquidity": 808760.68,
+      "avgTradeVolume": 725136.7257537778,
       "symbol": "FOUR"
     },
     {
       "contractAddress": "0xf7d6243b937136d432adbc643f311b5a9436b0b0",
-      "marketCap": 1556936.9229906003,
+      "marketCap": 1556936.9229906008,
       "activeHolders": 2818,
-      "liquidity": 235864.9,
+      "liquidity": 264256.84,
       "avgTradeVolume": 290198.7722296837,
       "symbol": "snake"
     },
     {
-      "contractAddress": "0x62ac9e7d09f301d800119055b5367da7907504b5",
-      "marketCap": 918.6743810693077,
-      "activeHolders": 475,
-      "liquidity": 1248.97,
-      "avgTradeVolume": 20715.307822569637,
-      "symbol": "$TSUJI "
-    },
-    {
-      "contractAddress": "0xfe1e5493d71029dfd7da64f56c38890c76e8451c",
-      "marketCap": 301232.3292356255,
-      "activeHolders": 840,
-      "liquidity": 12367.04,
-      "avgTradeVolume": 48.091102638997185,
-      "symbol": "W3"
-    },
-    {
-      "contractAddress": "0xe915b76212e820c34e7e6b6eab1849bf6dc0c68a",
-      "marketCap": 570.6760883494579,
-      "activeHolders": 522,
-      "liquidity": 446.2,
-      "avgTradeVolume": 8370.329518283399,
-      "symbol": "TrumpX"
-    },
-    {
-      "contractAddress": "0x450593bf7f2d7e559e38496cfb06bdce5e963795",
-      "marketCap": 140045957.76185724,
-      "activeHolders": 1714,
-      "liquidity": 455937.82,
-      "avgTradeVolume": 439466.0289619057,
-      "symbol": "BCCoin"
-    },
-    {
-      "contractAddress": "0x6ec90334d89dbdc89e08a133271be3d104128edb",
-      "marketCap": -15367.189921060914,
-      "activeHolders": 10750,
-      "liquidity": 232633.27,
-      "avgTradeVolume": 5185.8903010268095,
-      "symbol": "WKC"
-    },
-    {
-      "contractAddress": "0x46d502fac9aea7c5bc7b13c8ec9d02378c33d36f",
-      "marketCap": -0.18465380016115554,
-      "activeHolders": 1513,
-      "liquidity": 90752.81999999999,
-      "avgTradeVolume": 1685.2579690162731,
-      "symbol": "WSPP"
-    },
-    {
-      "contractAddress": "0x8682bace40610eefcf14b1af9ccd92b77bf88471",
-      "marketCap": -2732.400455258997,
-      "activeHolders": 1028,
-      "liquidity": 87366.1,
-      "avgTradeVolume": 2318.0119618890985,
-      "symbol": "Subject 3"
-    },
-    {
-      "contractAddress": "0xef111316430ec5f97a1a7ff04b6cdde47c888709",
-      "marketCap": 1354258.2395253764,
-      "activeHolders": 31777,
-      "liquidity": 99.57,
-      "avgTradeVolume": 149.88847070742747,
-      "symbol": "BULL"
-    },
-    {
-      "contractAddress": "0xe4fae3faa8300810c835970b9187c268f55d998f",
-      "marketCap": -2.337671058189852,
-      "activeHolders": 4742,
-      "liquidity": 1497803.28,
-      "avgTradeVolume": 8939.156336124286,
-      "symbol": "CATE"
-    },
-    {
-      "contractAddress": "0xf48f91df403976060cc05dbbf8a0901b09fdefd4",
-      "marketCap": -186749.50469026843,
-      "activeHolders": 9133,
-      "liquidity": 225590.21,
-      "avgTradeVolume": 4244.727468728263,
-      "symbol": "MINU"
-    },
-    {
-      "contractAddress": "0xfe8bf5b8f5e4eb5f9bc2be16303f7dab8cf56aa8",
-      "marketCap": -1.9499421372562957,
-      "activeHolders": 8625,
-      "liquidity": 619837.06,
-      "avgTradeVolume": 34161.68525678567,
-      "symbol": "BIBI"
-    },
-    {
       "contractAddress": "0x59f4f336bf3d0c49dbfba4a74ebd2a6ace40539a",
-      "marketCap": -568536.0899698167,
+      "marketCap": -568536.0899698165,
       "activeHolders": 112216,
-      "liquidity": 646188.2100000001,
-      "avgTradeVolume": 333779.9381814574,
+      "liquidity": 645802.7399999999,
+      "avgTradeVolume": 333779.93818145746,
       "symbol": "CAT"
     }
   ]
