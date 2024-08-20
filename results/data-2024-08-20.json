@@ -1,0 +1,47 @@
+{
+  "updateAt": "2024-08-20T01:45:01.960Z",
+  "udexPrefix": "https://udex.keylesswallet.io/Trade?chainId=97&type=swap&outputCurrency=",
+  "tokenCount": 5,
+  "data": [
+    {
+      "contractAddress": "0x450593bf7f2d7e559e38496cfb06bdce5e963795",
+      "marketCap": 140045957.76185718,
+      "activeHolders": 1714,
+      "liquidity": 456141.99,
+      "avgTradeVolume": 439466.0289619059,
+      "symbol": "BCCoin"
+    },
+    {
+      "contractAddress": "0x62ac9e7d09f301d800119055b5367da7907504b5",
+      "marketCap": 918.6743810693075,
+      "activeHolders": 475,
+      "liquidity": 1248.97,
+      "avgTradeVolume": 20715.30782256965,
+      "symbol": "$TSUJI "
+    },
+    {
+      "contractAddress": "0x2068dfb5adc68dcf82ae8d91befe23f00ea0dc27",
+      "marketCap": 870731.4629892164,
+      "activeHolders": 2050,
+      "liquidity": 55528.630000000005,
+      "avgTradeVolume": 31620.462156640966,
+      "symbol": "WHY2.0"
+    },
+    {
+      "contractAddress": "0xe915b76212e820c34e7e6b6eab1849bf6dc0c68a",
+      "marketCap": 570.6760883494578,
+      "activeHolders": 522,
+      "liquidity": 446.2,
+      "avgTradeVolume": 8370.329518283392,
+      "symbol": "TrumpX"
+    },
+    {
+      "contractAddress": "0x9ec02756a559700d8d9e79ece56809f7bcc5dc27",
+      "marketCap": 336518857165846.44,
+      "activeHolders": 30943,
+      "liquidity": 16349180.51,
+      "avgTradeVolume": 1330929.4529477903,
+      "symbol": "WHY"
+    }
+  ]
+}
