@@ -1,39 +1,55 @@
 {
-  "updateAt": "2024-08-21T02:00:40.549Z",
+  "updateAt": "2024-08-21T02:19:37.965Z",
   "udexPrefix": "https://udex.keylesswallet.io/Trade?chainId=97&type=swap&outputCurrency=",
-  "tokenCount": 4,
+  "tokenCount": 6,
   "data": [
     {
       "contractAddress": "0x59f4f336bf3d0c49dbfba4a74ebd2a6ace40539a",
-      "marketCap": -566349.8814656601,
+      "marketCap": -566349.8814656592,
       "activeHolders": 111890,
-      "liquidity": 633956.7400000002,
-      "avgTradeVolume": 307437.16704991116,
+      "liquidity": 636175.8400000001,
+      "avgTradeVolume": 367663.53971746087,
       "symbol": "CAT"
     },
     {
+      "contractAddress": "0x766e09665a8128d9f7fd9d90bcd3d9cdc50b067f",
+      "marketCap": 2515545.4476959254,
+      "activeHolders": 4444,
+      "liquidity": 551516.7899999999,
+      "avgTradeVolume": 43296.38592605227,
+      "symbol": "MOLI"
+    },
+    {
       "contractAddress": "0x21fd16cd0ef24a49d28429921e335bb0c1bfadb3",
-      "marketCap": 13198371.714685598,
+      "marketCap": 13198371.714685595,
       "activeHolders": 7942,
-      "liquidity": 787516.9,
-      "avgTradeVolume": 686369.046681498,
+      "liquidity": 790577.27,
+      "avgTradeVolume": 805469.8453902196,
       "symbol": "FOUR"
     },
     {
       "contractAddress": "0xf7d6243b937136d432adbc643f311b5a9436b0b0",
-      "marketCap": 1338996.7339230482,
+      "marketCap": 1338996.7339230466,
       "activeHolders": 3028,
-      "liquidity": 245514.94,
-      "avgTradeVolume": 256504.47122154618,
+      "liquidity": 245242.41,
+      "avgTradeVolume": 507409.1184202363,
       "symbol": "snake"
     },
     {
       "contractAddress": "0x9ec02756a559700d8d9e79ece56809f7bcc5dc27",
-      "marketCap": 104130331.99625573,
+      "marketCap": 104130331.99625568,
       "activeHolders": 31173,
-      "liquidity": 17227779.399999995,
-      "avgTradeVolume": 1319629.400682686,
+      "liquidity": 17290405.330000002,
+      "avgTradeVolume": 1709211.3961401281,
       "symbol": "WHY"
+    },
+    {
+      "contractAddress": "0xe818ba083116aa7b5dc9fbe2bbd48aa9ec1e0445",
+      "marketCap": -1235400.1948810157,
+      "activeHolders": 14598,
+      "liquidity": 2364766.24,
+      "avgTradeVolume": 473069.082320685,
+      "symbol": "burn🚀🚀🚀"
     }
   ]
 }
