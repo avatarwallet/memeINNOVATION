@@ -1,6 +1,6 @@
 {
-  "updateAt": "2024-08-21T12:46:11.081Z",
-  "udexPrefix": "https://app.udex.one/Trade?chainId=97&type=swap&outputCurrency=",
+  "updateAt": "2024-08-21T12:48:06.821Z",
+  "udexPrefix": "https://app.udex.one/Trade?chainId=56&type=swap&outputCurrency=",
   "tokenCount": 6,
   "data": [
     {
@@ -39,7 +39,7 @@
       "contractAddress": "0x9ec02756a559700d8d9e79ece56809f7bcc5dc27",
       "marketCap": 104130331.99625568,
       "activeHolders": 31173,
-      "liquidity": 17033033.299999997,
+      "liquidity": 17034681.319999997,
       "avgTradeVolume": 1709211.3961401281,
       "symbol": "WHY"
     },
@@ -47,7 +47,7 @@
       "contractAddress": "0xe818ba083116aa7b5dc9fbe2bbd48aa9ec1e0445",
       "marketCap": -1235400.1948810157,
       "activeHolders": 14598,
-      "liquidity": 2307380.63,
+      "liquidity": 2306326.04,
       "avgTradeVolume": 473069.082320685,
       "symbol": "burn🚀🚀🚀"
     }
