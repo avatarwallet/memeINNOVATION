@@ -1,0 +1,55 @@
+{
+  "updateAt": "2024-08-26T01:45:03.954Z",
+  "udexPrefix": "https://app.udex.one/Trade?chainId=56&type=swap&outputCurrency=",
+  "tokenCount": 6,
+  "data": [
+    {
+      "contractAddress": "0x766e09665a8128d9f7fd9d90bcd3d9cdc50b067f",
+      "marketCap": 2252611.7280001966,
+      "activeHolders": 4872,
+      "liquidity": 479134.23,
+      "avgTradeVolume": 42979.876705962575,
+      "symbol": "MOLI"
+    },
+    {
+      "contractAddress": "0x21fd16cd0ef24a49d28429921e335bb0c1bfadb3",
+      "marketCap": 27764792.810466778,
+      "activeHolders": 9497,
+      "liquidity": 1063937.99,
+      "avgTradeVolume": 826360.6594607165,
+      "symbol": "FOUR"
+    },
+    {
+      "contractAddress": "0xe818ba083116aa7b5dc9fbe2bbd48aa9ec1e0445",
+      "marketCap": -1682147.478080044,
+      "activeHolders": 15448,
+      "liquidity": 2544004.8,
+      "avgTradeVolume": 501168.8441502302,
+      "symbol": "burn🚀🚀🚀"
+    },
+    {
+      "contractAddress": "0x59f4f336bf3d0c49dbfba4a74ebd2a6ace40539a",
+      "marketCap": -581719.0281115454,
+      "activeHolders": 83208,
+      "liquidity": 670485.47,
+      "avgTradeVolume": 212510.93410201342,
+      "symbol": "CAT"
+    },
+    {
+      "contractAddress": "0x9ec02756a559700d8d9e79ece56809f7bcc5dc27",
+      "marketCap": 118340631.48644146,
+      "activeHolders": 33359,
+      "liquidity": 17192440.689999994,
+      "avgTradeVolume": 1525726.3919507272,
+      "symbol": "WHY"
+    },
+    {
+      "contractAddress": "0xf7d6243b937136d432adbc643f311b5a9436b0b0",
+      "marketCap": 1008151.2089789818,
+      "activeHolders": 3245,
+      "liquidity": 263624.3,
+      "avgTradeVolume": 355598.740831519,
+      "symbol": "snake"
+    }
+  ]
+}
