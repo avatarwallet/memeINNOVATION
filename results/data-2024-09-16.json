@@ -1,5 +1,5 @@
 {
-  "updateAt": "2024-09-16T01:45:33.459Z",
+  "updateAt": "2024-09-16T03:43:27.823Z",
   "udexPrefix": "https://app.udex.one/Trade?chainId=56&type=swap&outputCurrency=",
   "tokenCount": 114,
   "data": [
@@ -7,7 +7,7 @@
       "contractAddress": "0x6894cde390a3f51155ea41ed24a33a4827d3063d",
       "marketCap": 303246787.1312602,
       "activeHolders": 68540,
-      "liquidity": 18012417.75,
+      "liquidity": 17859612.939999998,
       "avgTradeVolume": 47969785.69140277,
       "symbol": "CAT",
       "name": "Simons Cat"
@@ -16,7 +16,7 @@
       "contractAddress": "0xf563e86e461de100cfcfd8b65daa542d3d4b0550",
       "marketCap": 53851813.89978594,
       "activeHolders": 96992,
-      "liquidity": 3568748.2299999995,
+      "liquidity": 3554212.5100000002,
       "avgTradeVolume": 3775972.611554146,
       "symbol": "COCO",
       "name": "COCO COIN"
@@ -25,7 +25,7 @@
       "contractAddress": "0xa66cd1c4d890faa7c1a09a54a254d33d809ba3b5",
       "marketCap": 179519772.97013098,
       "activeHolders": 24080,
-      "liquidity": 1592224.6800000002,
+      "liquidity": 1590227.62,
       "avgTradeVolume": 1076350.1730784203,
       "symbol": "KTR",
       "name": "Kitty Run"
@@ -34,7 +34,7 @@
       "contractAddress": "0x21fd16cd0ef24a49d28429921e335bb0c1bfadb3",
       "marketCap": 19766047.230121225,
       "activeHolders": 33550,
-      "liquidity": 1321293.5100000002,
+      "liquidity": 1305917.5,
       "avgTradeVolume": 818804.8120018886,
       "symbol": "FOUR",
       "name": "4"
@@ -43,7 +43,7 @@
       "contractAddress": "0x9ec02756a559700d8d9e79ece56809f7bcc5dc27",
       "marketCap": 113660310.57703468,
       "activeHolders": 21220,
-      "liquidity": 17271223.3,
+      "liquidity": 17087188.41,
       "avgTradeVolume": 668437.794961481,
       "symbol": "WHY",
       "name": "why"
@@ -52,7 +52,7 @@
       "contractAddress": "0xfd54e565e6de7509b07cdba5769178045f212530",
       "marketCap": 22350803.668733876,
       "activeHolders": 12473,
-      "liquidity": 924009.48,
+      "liquidity": 917118.7599999999,
       "avgTradeVolume": 8409722.991388088,
       "symbol": "MAO",
       "name": "MAO"
@@ -61,7 +61,7 @@
       "contractAddress": "0x1c45366641014069114c78962bdc371f534bc81c",
       "marketCap": 2511500.4391387408,
       "activeHolders": 16972,
-      "liquidity": 403651.49,
+      "liquidity": 432576.75000000006,
       "avgTradeVolume": 5644939.248903249,
       "symbol": "binancedog",
       "name": "binancedog"
@@ -70,7 +70,7 @@
       "contractAddress": "0xe818ba083116aa7b5dc9fbe2bbd48aa9ec1e0445",
       "marketCap": 47254395.094984606,
       "activeHolders": 13631,
-      "liquidity": 1754571.38,
+      "liquidity": 1723394.55,
       "avgTradeVolume": 164568.8422180548,
       "symbol": "burn🚀🚀🚀",
       "name": "burn🚀🚀🚀"
@@ -79,7 +79,7 @@
       "contractAddress": "0x59f4f336bf3d0c49dbfba4a74ebd2a6ace40539a",
       "marketCap": 11826153.83666912,
       "activeHolders": 22810,
-      "liquidity": 570805.6,
+      "liquidity": 564893.62,
       "avgTradeVolume": 73238.68619907646,
       "symbol": "CAT",
       "name": "Catcoin"
@@ -88,7 +88,7 @@
       "contractAddress": "0x4615c8e2db74517a34712c9bdea5c418d999014b",
       "marketCap": 2133226.9738667994,
       "activeHolders": 6898,
-      "liquidity": 440882.91,
+      "liquidity": 436461.80999999994,
       "avgTradeVolume": 135478.33752069334,
       "symbol": "GrokCat",
       "name": "Grok Cat"
@@ -97,7 +97,7 @@
       "contractAddress": "0x8b1869f79b9abf52001314a2e6990a96f039058d",
       "marketCap": 1404555.8841792077,
       "activeHolders": 5045,
-      "liquidity": 199828.32,
+      "liquidity": 196884.1,
       "avgTradeVolume": 314396.19031665556,
       "symbol": "ANDY",
       "name": "Andy"
@@ -106,7 +106,7 @@
       "contractAddress": "0x137ffd84025c582482e03d3a0b9f74c26dddfbad",
       "marketCap": 5503793.884606764,
       "activeHolders": 8729,
-      "liquidity": 225070.41999999998,
+      "liquidity": 221084.93,
       "avgTradeVolume": 62640.871110813096,
       "symbol": "HODL",
       "name": "HODL"
@@ -115,7 +115,7 @@
       "contractAddress": "0x1ccd53f4a12ae55bb8e2a19fa37a7b1cfd4e7f3c",
       "marketCap": 5116569.941647003,
       "activeHolders": 4050,
-      "liquidity": 442785.59,
+      "liquidity": 421219.9,
       "avgTradeVolume": 132688.996546198,
       "symbol": "WUKONG",
       "name": "WUKONG"
@@ -124,7 +124,7 @@
       "contractAddress": "0xc9dccbb27d712494c99c20702fa87bd591f5f8ce",
       "marketCap": 110666.33952015583,
       "activeHolders": 6678,
-      "liquidity": 53050.119999999995,
+      "liquidity": 57079.469999999994,
       "avgTradeVolume": 989898.8963920231,
       "symbol": "binancecat",
       "name": "binancecat"
@@ -133,7 +133,7 @@
       "contractAddress": "0xe576670499de7d832f3eb59e07b603c7b5c10a36",
       "marketCap": 840801.3270593341,
       "activeHolders": 2011,
-      "liquidity": 114990.25,
+      "liquidity": 112471.19,
       "avgTradeVolume": 1247858.2069312986,
       "symbol": "BNBcat",
       "name": "BNBcat"
@@ -142,7 +142,7 @@
       "contractAddress": "0x6ec90334d89dbdc89e08a133271be3d104128edb",
       "marketCap": 9076780.041689424,
       "activeHolders": 14463,
-      "liquidity": 350146.76999999996,
+      "liquidity": 344835.3,
       "avgTradeVolume": 31289.22785374391,
       "symbol": "WKC",
       "name": "WIKI CAT"
@@ -151,7 +151,7 @@
       "contractAddress": "0xe4fae3faa8300810c835970b9187c268f55d998f",
       "marketCap": 18566258.02801168,
       "activeHolders": 12716,
-      "liquidity": 1421336.6099999999,
+      "liquidity": 1406522.44,
       "avgTradeVolume": 28417.445629596466,
       "symbol": "CATE",
       "name": "CateCoin"
@@ -160,7 +160,7 @@
       "contractAddress": "0xf7d6243b937136d432adbc643f311b5a9436b0b0",
       "marketCap": 966812.5215409956,
       "activeHolders": 3709,
-      "liquidity": 219963.53,
+      "liquidity": 215424.09,
       "avgTradeVolume": 142167.53752488093,
       "symbol": "snake",
       "name": "snake"
@@ -169,7 +169,7 @@
       "contractAddress": "0xb71b42f7f0513b3f49a0a42ffdcf90509a888888",
       "marketCap": 4905013541606.317,
       "activeHolders": 4728,
-      "liquidity": 37609.28,
+      "liquidity": 37166.76,
       "avgTradeVolume": 26776.771322395296,
       "symbol": "CATME",
       "name": "ELON'S CAT"
@@ -178,7 +178,7 @@
       "contractAddress": "0xeceb785a646f2c5ac759aa30d0fc85841ba004f3",
       "marketCap": 1924608.4118016092,
       "activeHolders": 6712,
-      "liquidity": 414937.15,
+      "liquidity": 404235.08,
       "avgTradeVolume": 48110.56958538214,
       "symbol": "BABYLONG",
       "name": "BABYLONG"
@@ -187,7 +187,7 @@
       "contractAddress": "0xc3571b3f9721d07919dc42af7fce2784b56e8e3c",
       "marketCap": 662952.1182750157,
       "activeHolders": 1887,
-      "liquidity": 90403.87,
+      "liquidity": 89067.39,
       "avgTradeVolume": 269950.78099748,
       "symbol": "ZHOA",
       "name": "Chengpang Zhoa"
@@ -196,7 +196,7 @@
       "contractAddress": "0x747ca1679f39618c084873da9ff7a90583a03797",
       "marketCap": 66647.79775076848,
       "activeHolders": 5059,
-      "liquidity": 47319.65,
+      "liquidity": 46838.15,
       "avgTradeVolume": 130365.82991271488,
       "symbol": "WuKong",
       "name": "Black Myth WuKong"
@@ -205,7 +205,7 @@
       "contractAddress": "0x88da9901b3a02fe24e498e1ed683d2310383e295",
       "marketCap": 2826784.4193744417,
       "activeHolders": 22279,
-      "liquidity": 970375.14,
+      "liquidity": 961324.11,
       "avgTradeVolume": 10980.483307814868,
       "symbol": "BabyGrok",
       "name": "Baby Grok"
@@ -214,7 +214,7 @@
       "contractAddress": "0x8a452daaf59f79fd511484b5ce9474e32dd189ce",
       "marketCap": 9257235.14861724,
       "activeHolders": 1248,
-      "liquidity": 325135.54,
+      "liquidity": 321401.11,
       "avgTradeVolume": 57396.84982164832,
       "symbol": "BIC",
       "name": "BIC"
@@ -223,7 +223,7 @@
       "contractAddress": "0x766e09665a8128d9f7fd9d90bcd3d9cdc50b067f",
       "marketCap": 1964212.003913727,
       "activeHolders": 3962,
-      "liquidity": 278468.34,
+      "liquidity": 274654.81,
       "avgTradeVolume": 36625.20145823133,
       "symbol": "MOLI",
       "name": "LOVE MOLI"
@@ -232,7 +232,7 @@
       "contractAddress": "0x46d502fac9aea7c5bc7b13c8ec9d02378c33d36f",
       "marketCap": 817091.5088837849,
       "activeHolders": 15372,
-      "liquidity": 108921.02000000002,
+      "liquidity": 108233.09000000001,
       "avgTradeVolume": 15159.617433895583,
       "symbol": "WSPP",
       "name": "WolfSafePoorPeople"
@@ -241,7 +241,7 @@
       "contractAddress": "0x003144b41d9743d402c5bdf3f72ca0f327aa0bca",
       "marketCap": 2063079.0408766656,
       "activeHolders": 25345,
-      "liquidity": 1098.8,
+      "liquidity": 1097.02,
       "avgTradeVolume": 5719.277968400599,
       "symbol": "X314",
       "name": "X-314"
@@ -250,7 +250,7 @@
       "contractAddress": "0x1ab8ddaed54476653476df1b4753fc4611fb03a7",
       "marketCap": 154720.94554529735,
       "activeHolders": 988,
-      "liquidity": 83533.64,
+      "liquidity": 81436.77,
       "avgTradeVolume": 182833.63748516992,
       "symbol": "BOB",
       "name": "BOB"
@@ -259,7 +259,7 @@
       "contractAddress": "0xd39ba5680e5a59ed032054485a0a8d2d5a6a2366",
       "marketCap": 1142218.6842216924,
       "activeHolders": 1383,
-      "liquidity": 178768.85,
+      "liquidity": 175526.04,
       "avgTradeVolume": 39286.473616071096,
       "symbol": "MCOIN",
       "name": "Mcoin"
@@ -268,7 +268,7 @@
       "contractAddress": "0x1cd9b6f6be3ccc5184cd46b5a43a5464975e27f8",
       "marketCap": 64270.2565473542,
       "activeHolders": 3000,
-      "liquidity": 27334.41,
+      "liquidity": 26917.230000000003,
       "avgTradeVolume": 59336.096807726666,
       "symbol": "BIRDDOG",
       "name": "BIRDDOG"
@@ -286,7 +286,7 @@
       "contractAddress": "0xf48f91df403976060cc05dbbf8a0901b09fdefd4",
       "marketCap": 20309593.270374876,
       "activeHolders": 6200,
-      "liquidity": 203848.84000000003,
+      "liquidity": 201794.54000000004,
       "avgTradeVolume": 3072.2265720121945,
       "symbol": "MINU",
       "name": "Minu"
@@ -304,7 +304,7 @@
       "contractAddress": "0x05dc4a3b3254992f9e10ed9bbe1d1d8b7e122c38",
       "marketCap": 412654.0434032543,
       "activeHolders": 833,
-      "liquidity": 113927.53,
+      "liquidity": 109765.42,
       "avgTradeVolume": 74829.82397606762,
       "symbol": "CHOW",
       "name": "Chow Chow 松狮犬"
@@ -320,10 +320,10 @@
     },
     {
       "contractAddress": "0xef111316430ec5f97a1a7ff04b6cdde47c888709",
-      "marketCap": 17209783.49822437,
+      "marketCap": 20403850.28491704,
       "activeHolders": 11224,
-      "liquidity": 90.76,
-      "avgTradeVolume": 102.28843699439847,
+      "liquidity": 2594575.587797226,
+      "avgTradeVolume": 238236.9675119165,
       "symbol": "BULL",
       "name": "BULL"
     },
@@ -331,7 +331,7 @@
       "contractAddress": "0xd33a842e22e350b236f47e1d436a24bbbdc2e6f0",
       "marketCap": 163802.91928501814,
       "activeHolders": 1826,
-      "liquidity": 133139.31999999998,
+      "liquidity": 127753.47999999995,
       "avgTradeVolume": 30541.67000864978,
       "symbol": "SmartDefiDoge",
       "name": "SmartDefiDoge"
@@ -349,7 +349,7 @@
       "contractAddress": "0x0c27f037074178267d89f68ca32bc4ffd1901927",
       "marketCap": 650129.2705815735,
       "activeHolders": 5295,
-      "liquidity": 1070185.86,
+      "liquidity": 1054582.4500000002,
       "avgTradeVolume": 4740.505307683584,
       "symbol": "Bin4nce",
       "name": "Bin4nce"
@@ -367,7 +367,7 @@
       "contractAddress": "0x0dcee5f694e492f0dd842a7fbe5bed4c6e4665a6",
       "marketCap": 2182499.1489059813,
       "activeHolders": 2818,
-      "liquidity": 238649.79,
+      "liquidity": 231904.33,
       "avgTradeVolume": 3510.9594617141443,
       "symbol": "CATBOY",
       "name": "Catboy"
@@ -376,7 +376,7 @@
       "contractAddress": "0xc5a74da1b62855697fd55276593d24f38292e11c",
       "marketCap": 113247.09795175708,
       "activeHolders": 5660,
-      "liquidity": 78970.82,
+      "liquidity": 77807.39,
       "avgTradeVolume": 5725.340064781049,
       "symbol": "Trump407",
       "name": "Trump407"
@@ -385,7 +385,7 @@
       "contractAddress": "0x1595d06048c3f86ecf7b98cc65a60583fcbbb142",
       "marketCap": 13428.139637965414,
       "activeHolders": 955,
-      "liquidity": 12607.36,
+      "liquidity": 11839.41,
       "avgTradeVolume": 76658.20341358431,
       "symbol": "BNBDOG",
       "name": "BNBDOG"
@@ -529,7 +529,7 @@
       "contractAddress": "0x8682bace40610eefcf14b1af9ccd92b77bf88471",
       "marketCap": 239706.80948370358,
       "activeHolders": 1733,
-      "liquidity": 65099.93,
+      "liquidity": 63764.05,
       "avgTradeVolume": 1633.2487900392018,
       "symbol": "Subject 3",
       "name": "Subject 3"
@@ -583,7 +583,7 @@
       "contractAddress": "0x05f00661c5de083c15f1137e9fa53f34ad11fd65",
       "marketCap": 21277.94445118192,
       "activeHolders": 635,
-      "liquidity": 18071.81,
+      "liquidity": 0,
       "avgTradeVolume": 6758.066938586984,
       "symbol": "LOVE",
       "name": "TRUE LOVE"
@@ -599,10 +599,10 @@
     },
     {
       "contractAddress": "0xac37e12f00e0ce18a2cbdf574cb19017bb5e8108",
-      "marketCap": 0,
+      "marketCap": 101445783.87070717,
       "activeHolders": 11446,
-      "liquidity": 0,
-      "avgTradeVolume": 0,
+      "liquidity": 1818440.4639407152,
+      "avgTradeVolume": 598964.4505585188,
       "symbol": "MSPCX",
       "name": "MSPCX"
     },
@@ -610,7 +610,7 @@
       "contractAddress": "0x3e2242cb2fc1465822a0bb81ca2fe1f633a45757",
       "marketCap": 155366.00319884173,
       "activeHolders": 310,
-      "liquidity": 48882.369999999995,
+      "liquidity": 48077.85,
       "avgTradeVolume": 13147.083902554272,
       "symbol": "Forky",
       "name": "Forky"
@@ -680,10 +680,10 @@
     },
     {
       "contractAddress": "0x7dfa90581c0db370d4d863b2cf62eb54f9be4e03",
-      "marketCap": 0,
+      "marketCap": 37013328.95575852,
       "activeHolders": 4531,
-      "liquidity": 0,
-      "avgTradeVolume": 0,
+      "liquidity": 1802790.8940676292,
+      "avgTradeVolume": 51544.64645166485,
       "symbol": "PUNK",
       "name": "AiPark"
     },
@@ -691,7 +691,7 @@
       "contractAddress": "0x7bf05c13201796644f623a9be4bce866e2dcbfb7",
       "marketCap": 31388.795250151612,
       "activeHolders": 241,
-      "liquidity": 18633.65,
+      "liquidity": 0,
       "avgTradeVolume": 14123.893840606324,
       "symbol": "binancecat",
       "name": "binancecat"
@@ -743,10 +743,10 @@
     },
     {
       "contractAddress": "0xe78ae5117099955992d7f5e225e2bd47d69f7f06",
-      "marketCap": 0,
+      "marketCap": 1193626.03981833,
       "activeHolders": 1893,
-      "liquidity": 0.47,
-      "avgTradeVolume": 256.99603963465717,
+      "liquidity": 140430.29558878142,
+      "avgTradeVolume": 12647.383052959141,
       "symbol": "PEACE",
       "name": "PeaceDAO"
     },
@@ -799,7 +799,7 @@
       "contractAddress": "0xfe1e5493d71029dfd7da64f56c38890c76e8451c",
       "marketCap": 10447.631236061741,
       "activeHolders": 510,
-      "liquidity": 0,
+      "liquidity": 2298.7599999999998,
       "avgTradeVolume": 354.1505256340006,
       "symbol": "W3",
       "name": "Web3Coin"
@@ -871,7 +871,7 @@
       "contractAddress": "0x0b1fdc439ef8e280761790da9f176ef7e57d4874",
       "marketCap": 7830.658073475176,
       "activeHolders": 215,
-      "liquidity": 3230.84,
+      "liquidity": 3174.27,
       "avgTradeVolume": 4118.847187955911,
       "symbol": "Orko",
       "name": "Orko"
@@ -932,28 +932,28 @@
     },
     {
       "contractAddress": "0xd3ecee922a3728572c63de5b55b0b100822ba71d",
-      "marketCap": 0,
+      "marketCap": 95207.03559223561,
       "activeHolders": 325,
-      "liquidity": 0,
-      "avgTradeVolume": 0,
+      "liquidity": 8548.297179504396,
+      "avgTradeVolume": 438.74281169498096,
       "symbol": "EAI",
       "name": "Earth2"
     },
     {
       "contractAddress": "0x85749871ca4325e512f817267a56c4619fd62b5a",
-      "marketCap": 0,
+      "marketCap": 3835.2284425117195,
       "activeHolders": 31,
-      "liquidity": 0,
-      "avgTradeVolume": 0,
+      "liquidity": 645.0572740149273,
+      "avgTradeVolume": 190.50275636316417,
       "symbol": "BWUKONG",
       "name": "Baby Wukong"
     },
     {
       "contractAddress": "0x82cdfbad665f0e7d128c90bdd92e1fbc2f0a2496",
-      "marketCap": 0,
+      "marketCap": 3164.3543276698233,
       "activeHolders": 30,
-      "liquidity": 0,
-      "avgTradeVolume": 0,
+      "liquidity": 466.800380705899,
+      "avgTradeVolume": 126.4538615791166,
       "symbol": "FREECZ",
       "name": "FreeCZ"
     },
