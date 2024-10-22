@@ -1,67 +1,67 @@
 {
-  "updateAt": "2024-10-22T10:25:58.899Z",
+  "updateAt": "2024-10-22T10:38:05.563Z",
   "udexPrefix": "https://app.udex.one/Trade?chainId=56&type=swap&outputCurrency=",
   "tokenCount": 5,
   "data": [
     {
       "contractAddress": "0x8b79803f92d2a4246f36b1a68df61d4489015666",
       "marketCap": 69464467.05413876,
-      "activeHolders": 283,
-      "liquidity": 160324.82,
-      "avgTradeVolume": 1545131.0953726582,
+      "activeHolders": 292,
+      "liquidity": 160810.2,
+      "avgTradeVolume": 1545131.095372658,
       "symbol": "SDT",
       "name": "SDT",
       "creationTime": "2024-10-20 13:15:01.000 UTC",
       "totalVolume": 4635393.286117972,
-      "activateDay": 3
+      "activeDays": 3
     },
     {
       "contractAddress": "0x8f1cefc220741bf6958bd8bd376699b23cce28d7",
       "marketCap": 571509.7362105693,
-      "activeHolders": 447,
+      "activeHolders": 456,
       "liquidity": 1.18,
-      "avgTradeVolume": 608024.0351938717,
+      "avgTradeVolume": 608024.0351938719,
       "symbol": "ETH ETF",
       "name": "Ethereum ETF",
       "creationTime": "2024-10-21 06:02:11.000 UTC",
-      "totalVolume": 1216048.0703877434,
-      "activateDay": 2
+      "totalVolume": 1216048.0703877439,
+      "activeDays": 2
     },
     {
       "contractAddress": "0x2462050c1950fec1fe3fbf7389d44c45cfc7e29a",
       "marketCap": 99707.59777036535,
-      "activeHolders": 49,
+      "activeHolders": 50,
       "liquidity": 1.25,
-      "avgTradeVolume": 20360.605046775345,
+      "avgTradeVolume": 20360.60504677535,
       "symbol": "BabyHippo",
       "name": "BABY HIPPO",
       "creationTime": "2024-10-21 11:16:10.000 UTC",
-      "totalVolume": 20360.60504677534,
-      "activateDay": 1
+      "totalVolume": 20360.60504677535,
+      "activeDays": 1
     },
     {
       "contractAddress": "0xac37e12f00e0ce18a2cbdf574cb19017bb5e8108",
       "marketCap": 67200.58524510651,
-      "activeHolders": 88,
+      "activeHolders": 89,
       "liquidity": 0,
       "avgTradeVolume": 383.56442734322303,
       "symbol": "MSPCX",
       "name": "MSPCX",
       "creationTime": "2024-08-06 09:20:41.000 UTC",
       "totalVolume": 1150.6932820296693,
-      "activateDay": 3
+      "activeDays": 3
     },
     {
       "contractAddress": "0xe78ae5117099955992d7f5e225e2bd47d69f7f06",
       "marketCap": 15.395135507589192,
-      "activeHolders": 150,
+      "activeHolders": 154,
       "liquidity": 0,
-      "avgTradeVolume": 0.13678092495706298,
+      "avgTradeVolume": 0.13678092495706295,
       "symbol": "PEACE",
       "name": "PeaceDAO",
       "creationTime": "2024-07-31 09:24:13.000 UTC",
-      "totalVolume": 0.41034277487118886,
-      "activateDay": 3
+      "totalVolume": 0.4103427748711889,
+      "activeDays": 3
     }
   ]
 }
