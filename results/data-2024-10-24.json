@@ -1,0 +1,67 @@
+{
+  "updateAt": "2024-10-24T07:16:09.241Z",
+  "udexPrefix": "https://app.udex.one/Trade?chainId=56&type=swap&outputCurrency=",
+  "tokenCount": 5,
+  "data": [
+    {
+      "contractAddress": "0x03fcbd8dfe53191422c4302f14ad11ad1db61418",
+      "marketCap": 10056292.39446231,
+      "activeHolders": 1159,
+      "liquidity": 312718.21,
+      "avgTradeVolume": 1950655.291498904,
+      "symbol": "PICOLO",
+      "name": "PICOLO",
+      "creationTime": "2024-10-22 12:27:42.000 UTC",
+      "totalVolume": 5851965.874496713,
+      "activeDays": 3
+    },
+    {
+      "contractAddress": "0x8b79803f92d2a4246f36b1a68df61d4489015666",
+      "marketCap": 61694515.56891474,
+      "activeHolders": 550,
+      "liquidity": 168778.33,
+      "avgTradeVolume": 573648.8773542186,
+      "symbol": "SDT",
+      "name": "SDT",
+      "creationTime": "2024-10-20 13:15:01.000 UTC",
+      "totalVolume": 1720946.6320626554,
+      "activeDays": 3
+    },
+    {
+      "contractAddress": "0x5ff325ec2cde57373cb3db511f96a33dc92e1986",
+      "marketCap": 602486.6798963035,
+      "activeHolders": 1932,
+      "liquidity": 154152.02,
+      "avgTradeVolume": 373517.2127136576,
+      "symbol": "BabyHippo",
+      "name": "BABY HIPPO",
+      "creationTime": "2024-10-19 12:25:15.000 UTC",
+      "totalVolume": 1120551.6381409727,
+      "activeDays": 3
+    },
+    {
+      "contractAddress": "0x8f1cefc220741bf6958bd8bd376699b23cce28d7",
+      "marketCap": 1233508.9790875064,
+      "activeHolders": 601,
+      "liquidity": 0,
+      "avgTradeVolume": 277607.7608451926,
+      "symbol": "ETH ETF",
+      "name": "Ethereum ETF",
+      "creationTime": "2024-10-21 06:02:11.000 UTC",
+      "totalVolume": 277607.7608451926,
+      "activeDays": 1
+    },
+    {
+      "contractAddress": "0x2462050c1950fec1fe3fbf7389d44c45cfc7e29a",
+      "marketCap": 0,
+      "activeHolders": 74,
+      "liquidity": 0,
+      "avgTradeVolume": 0,
+      "symbol": "BabyHippo",
+      "name": "BABY HIPPO",
+      "creationTime": "2024-10-21 11:16:10.000 UTC",
+      "totalVolume": null,
+      "activeDays": null
+    }
+  ]
+}
