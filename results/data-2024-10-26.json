@@ -1,0 +1,55 @@
+{
+  "updateAt": "2024-10-26T01:45:01.531Z",
+  "udexPrefix": "https://app.udex.one/Trade?chainId=56&type=swap&outputCurrency=",
+  "tokenCount": 4,
+  "data": [
+    {
+      "contractAddress": "0x4f7ea8f6487a7007ca054f35c4a7b961f5b18961",
+      "marketCap": 5272194.763039001,
+      "activeHolders": 5029,
+      "liquidity": 588408.29,
+      "avgTradeVolume": 3533115.560662998,
+      "symbol": "CATS",
+      "name": "GoldenCat",
+      "creationTime": "2024-10-21 09:57:34.000 UTC",
+      "totalVolume": 7066231.121325997,
+      "activeDays": 2
+    },
+    {
+      "contractAddress": "0x03fcbd8dfe53191422c4302f14ad11ad1db61418",
+      "marketCap": 8664692.700748188,
+      "activeHolders": 1241,
+      "liquidity": 242843.38,
+      "avgTradeVolume": 1688444.682236931,
+      "symbol": "PICOLO",
+      "name": "PICOLO",
+      "creationTime": "2024-10-22 12:27:42.000 UTC",
+      "totalVolume": 6753778.728947721,
+      "activeDays": 4
+    },
+    {
+      "contractAddress": "0xce9b2473060180c6ad655cc10ab0b2e81527a7f0",
+      "marketCap": 875701.3952243299,
+      "activeHolders": 5189,
+      "liquidity": 95171.31,
+      "avgTradeVolume": 301768.3929136279,
+      "symbol": "LAMA",
+      "name": "LAMA",
+      "creationTime": "2024-10-21 13:50:22.000 UTC",
+      "totalVolume": 1207073.571654511,
+      "activeDays": 4
+    },
+    {
+      "contractAddress": "0x5ff325ec2cde57373cb3db511f96a33dc92e1986",
+      "marketCap": 517224.1355386141,
+      "activeHolders": 2227,
+      "liquidity": 143487.79,
+      "avgTradeVolume": 310568.0201342976,
+      "symbol": "BabyHippo",
+      "name": "BABY HIPPO",
+      "creationTime": "2024-10-19 12:25:15.000 UTC",
+      "totalVolume": 1242272.080537191,
+      "activeDays": 4
+    }
+  ]
+}
