@@ -1,0 +1,103 @@
+{
+  "updateAt": "2024-10-30T01:45:02.250Z",
+  "udexPrefix": "https://app.udex.one/Trade?chainId=56&type=swap&outputCurrency=",
+  "tokenCount": 8,
+  "data": [
+    {
+      "contractAddress": "0x6cdd08de79231a1957f205a3fe5cf9dbf4b0c454",
+      "marketCap": 6011332.038669045,
+      "activeHolders": 14784,
+      "liquidity": 701539.2,
+      "avgTradeVolume": 1250251.7510284751,
+      "symbol": "BabyNeiro",
+      "name": "Baby Neiro",
+      "creationTime": "2024-10-15 12:15:01.000 UTC",
+      "totalVolume": 10002014.008227803,
+      "activeDays": 8
+    },
+    {
+      "contractAddress": "0x4f7ea8f6487a7007ca054f35c4a7b961f5b18961",
+      "marketCap": 3252750.04206548,
+      "activeHolders": 6564,
+      "liquidity": 437494.58999999997,
+      "avgTradeVolume": 1577671.4939349976,
+      "symbol": "CATS",
+      "name": "GoldenCat",
+      "creationTime": "2024-10-21 09:57:34.000 UTC",
+      "totalVolume": 9466028.963609984,
+      "activeDays": 6
+    },
+    {
+      "contractAddress": "0x03fcbd8dfe53191422c4302f14ad11ad1db61418",
+      "marketCap": 4098538.6285262057,
+      "activeHolders": 1275,
+      "liquidity": 184382.83,
+      "avgTradeVolume": 990506.2629536125,
+      "symbol": "PICOLO",
+      "name": "PICOLO",
+      "creationTime": "2024-10-22 12:27:42.000 UTC",
+      "totalVolume": 7924050.103628897,
+      "activeDays": 8
+    },
+    {
+      "contractAddress": "0xce9b2473060180c6ad655cc10ab0b2e81527a7f0",
+      "marketCap": 587099.2153528007,
+      "activeHolders": 6709,
+      "liquidity": 47782.27,
+      "avgTradeVolume": 211719.47004874676,
+      "symbol": "LAMA",
+      "name": "LAMA",
+      "creationTime": "2024-10-21 13:50:22.000 UTC",
+      "totalVolume": 1693755.760389974,
+      "activeDays": 8
+    },
+    {
+      "contractAddress": "0x5ff325ec2cde57373cb3db511f96a33dc92e1986",
+      "marketCap": 509501.27867280267,
+      "activeHolders": 2805,
+      "liquidity": 134862.41,
+      "avgTradeVolume": 170244.6236765577,
+      "symbol": "BabyHippo",
+      "name": "BABY HIPPO",
+      "creationTime": "2024-10-19 12:25:15.000 UTC",
+      "totalVolume": 1361956.9894124612,
+      "activeDays": 8
+    },
+    {
+      "contractAddress": "0x45787821a0bd5e6bba8e709783c773a386e34d65",
+      "marketCap": 112723.18399368391,
+      "activeHolders": 1149,
+      "liquidity": 46962.34,
+      "avgTradeVolume": 301295.9055007199,
+      "symbol": "RATS",
+      "name": "GoldenRat",
+      "creationTime": "2024-10-23 17:01:51.000 UTC",
+      "totalVolume": 602591.81100144,
+      "activeDays": 2
+    },
+    {
+      "contractAddress": "0x3b650caa75d6c3fcc479a4f3ec93429cc26688a2",
+      "marketCap": 169461.19296607547,
+      "activeHolders": 1752,
+      "liquidity": 49054.34,
+      "avgTradeVolume": 68719.31822827431,
+      "symbol": "NEIROINU",
+      "name": "Neiro Inu",
+      "creationTime": "2024-10-14 06:54:27.000 UTC",
+      "totalVolume": 549754.5458261945,
+      "activeDays": 8
+    },
+    {
+      "contractAddress": "0x57ff0f326ef520f8ea47ec3db637ad8ed17ce8e4",
+      "marketCap": 2085402.9268197548,
+      "activeHolders": 328,
+      "liquidity": 360495.1,
+      "avgTradeVolume": 2552.8065531261946,
+      "symbol": "TOSHKIN",
+      "name": "TOSHKIN",
+      "creationTime": "2024-06-27 04:57:02.000 UTC",
+      "totalVolume": 5105.613106252391,
+      "activeDays": 2
+    }
+  ]
+}
